@@ -1,0 +1,24 @@
+.dictionary-container{
+    text-align: center;
+}
+
+.dictionary-input {
+    height: 20px;
+    width: 200px;
+    padding: 15px;
+}
+
+.results-container {
+    text-align: center;
+}
+
+.result-word {
+    text-transform: uppercase;
+    margin: 25px;
+}
+
+.results-meanings {
+    width: 500px;
+    margin: auto;
+    text-align: left;
+}

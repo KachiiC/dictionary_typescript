@@ -2,16 +2,12 @@ import React from 'react';
 import './App.css';
 import DictiionarySearch from './Components/DictionarySearch'
 
-const App = () => {
+const App = () => (
 
-  return (
+    <div className="App">
+      <DictiionarySearch />
+    </div>
 
-      <div className="App">
-        <DictiionarySearch who="Kach" />
-      </div>
-
-  );
-
-}
+)
 
 export default App;
